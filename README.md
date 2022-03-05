@@ -3,7 +3,7 @@
 
 <!-- BADGES -->
 <div align="center">
-   <br>
+   <p></p>
 
    <img src="https://img.shields.io/github/stars/jgengo-alt/google-login-page?color=F8BD96&labelColor=302D41&style=for-the-badge">
 
