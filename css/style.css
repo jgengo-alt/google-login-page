@@ -74,7 +74,6 @@ main {
   }
 
 .g__input-email::placeholder {
-  padding-left: 10px;
   font-weight: 500;
 }
 
